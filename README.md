@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 ¡Hola! Soy Samuel Maldonado  
 **Desarrollador Full-Stack** con 5 años de experiencia en *JavaScript* y *Python*. Me encanta crear aplicaciones web escalables.  
 - 🔭 Actualmente trabajo en [MiProyecto](https://github.com/usuario/MiProyecto).  
@@ -22,3 +21,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+
+
+<br/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samue2408&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
