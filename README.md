@@ -1,8 +1,77 @@
-# 👋 ¡Hola! Soy Samuel Maldonado  
-**Desarrollador Full-Stack** con 5 años de experiencia en *JavaScript* y *Python*. Me encanta crear aplicaciones web escalables.  
-- 🔭 Actualmente trabajo en [MiProyecto](https://github.com/usuario/MiProyecto).  
-- 🌱 Aprendiendo *machine learning* y *DevOps*.  
-- 📫 Contáctame: [LinkedIn](https://www.linkedin.com/in/samuel-maldonado-engineer/).  
+# 👋 Hey, I'm Samuel!
+
+**Full-Stack Developer | Data Analyst | Tech Enthusiast**  
+Apasionado por crear soluciones que combinan **buen diseño**, **buen código** y **buenas decisiones basadas en datos**.  
+Actualmente construyendo proyectos con **Next.js, Tailwind, TypeScript y Node.js**, y desarrollando aplicaciones SaaS con enfoque en **multitenencia**, **JWT**, **Zod**, **Prisma** y **PostgreSQL**.
+
+---
+
+## 🚀 About me
+
+- 🎓 Ingeniero de Sistemas — formación finalizada (¡solo esperando el grado!)
+- 💻 Apasionado por el desarrollo web: **frontend + backend**
+- 📊 Amante del análisis de datos (Power BI, Python, SQL)
+- 🤓 Siempre aprendiendo: desde arquitectura backend hasta diseño UI
+- 🌐 Construyendo proyectos reales: inventarios, ventas, dashboards, etc.
+- ⚡ Fun fact: si un proyecto tiene lógica compleja… mejor aún 😉
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- Next.js · React · TailwindCSS · shadcn/ui  
+- TypeScript · JavaScript · Sass
+
+### **Backend**
+- Node.js · Express · TypeScript
+- Python · Django
+- REST APIs · JWT · Zod
+
+### **Data & Analytics**
+- Power BI (múltiples proyectos + curso + bootcamp + electiva)
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (PostgreSQL, MySQL)
+
+---
+
+## 📚 Projects I'm working on
+
+### 🔹 SaaS de gestión empresarial  
+Inventario, ventas, egresos, plan separe, caja menor, devoluciones y más.  
+**Tecnologías:** Next.js · Tailwind · Node.js · PostgreSQL · Prisma · JWT · Zod  
+**Objetivo:** Arquitectura profesional, multitenencia y modelo de suscripción.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samue2408&show_icons=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samue2408&layout=compact" height="160" />
+</p>
+
+---
+
+## ✨Extras que me representan
+
+- 🎯 Siempre enfocado en buenas prácticas y arquitectura limpia  
+- 🧠 Me gusta entender *por qué* funciona algo, no solo hacerlo funcionar  
+- 🤝 Trabajo bien en equipo y en proyectos colaborativos  
+
+---
+
+## 📫 Let's connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-maldonado-engineer/)  
+- 🌐 [Portafolio personal](https://devmaldonado.vercel.app/)
+- ✉️ [ing.maldonadom@outlook.com]
+
+---
+
+> _“El código bien escrito es como un buen postre: simple, elegante y siempre deja a alguien feliz.”_ 🍰  
+
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,6 +91,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 
-
-<br/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samue2408&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
