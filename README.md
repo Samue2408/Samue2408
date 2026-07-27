@@ -8,7 +8,7 @@ Actualmente construyendo proyectos con **Next.js, Tailwind, TypeScript y Node.js
 
 ## 🚀 About me
 
-- 🎓 Ingeniero de Sistemas — formación finalizada (¡solo esperando el grado!)
+- 🎓 Ingeniero de Sistemas
 - 💻 Apasionado por el desarrollo web: **frontend + backend**
 - 📊 Amante del análisis de datos (Power BI, Python, SQL)
 - 🤓 Siempre aprendiendo: desde arquitectura backend hasta diseño UI
